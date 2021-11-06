@@ -7,4 +7,5 @@ Slug: My-first-post
 Authors: Melek Gharbi
 Summary: What does your post talk about? Write here.
 
-This is the *first post* from my Pelican blog. **YAY!**
+This is the *first post* from my Pelican blog. **YAY!**!
+![Write here a good description for people who can't see the image]({static}/images/fullfuel.jpg)
